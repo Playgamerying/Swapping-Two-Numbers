@@ -1,0 +1,7 @@
+F:\Learning\C#\Example programs\Swapping Two Numbers\bin\Debug\Swapping Two Numbers.exe.config
+F:\Learning\C#\Example programs\Swapping Two Numbers\bin\Debug\Swapping Two Numbers.exe
+F:\Learning\C#\Example programs\Swapping Two Numbers\bin\Debug\Swapping Two Numbers.pdb
+F:\Learning\C#\Example programs\Swapping Two Numbers\obj\Debug\Swapping Two Numbers.csproj.AssemblyReference.cache
+F:\Learning\C#\Example programs\Swapping Two Numbers\obj\Debug\Swapping Two Numbers.csproj.CoreCompileInputs.cache
+F:\Learning\C#\Example programs\Swapping Two Numbers\obj\Debug\Swapping Two Numbers.exe
+F:\Learning\C#\Example programs\Swapping Two Numbers\obj\Debug\Swapping Two Numbers.pdb
